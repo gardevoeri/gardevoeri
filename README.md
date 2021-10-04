@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hey everyone!👋
+🌱 I’m currently learning HTML, CSS and JavaScript.
+<br>
+🤔 I’m looking for help with basicaly everything, I'm a real beginner.😆
 
-<!--
-**gardevoeri/gardevoeri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Very ansious to share and learn from everyone! ❤
+<hr>
+📍 São Paulo/Brazil<br>
+💻 Technologist Degree in Systems Analysis and Development<br>
+📚 BookLover
+<hr>
+  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
