@@ -1,5 +1,5 @@
 ### Hey everyone!👋
-🌱 I’m currently learning HTML, CSS and JavaScript.
+🌱 I’m currently studying to became a Data Scientist!
 <br>
 🤔 I’m looking for help with basicaly everything, I'm a real beginner.😆
 
