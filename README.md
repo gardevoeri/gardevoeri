@@ -4,11 +4,12 @@
 <br>
 
 <div align="center">  
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gardevoeri&theme=default" height="195px">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gardevoeri&theme=default">  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gardevoeri&theme=default"> 
 </div>
-    
 <br>
+<div align="center">  
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gardevoeri&theme=default" height="195px">
+</div>
 
 
 <br>
