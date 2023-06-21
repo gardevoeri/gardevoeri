@@ -1,14 +1,15 @@
-<div align="center"> 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gardevoeri&theme=default" height="195px">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gardevoeri&theme=default"  height="195px">
-</div>
-<br>
 <div align="center">  
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gardevoeri&theme=default" height="195px">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gardevoeri&theme=default">  
 </div>
     
 <br>
+
+<div align="center"> 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gardevoeri&theme=default" height="195px">
+</div>
+<br>
+
 <br>
 <div align="center"> 
 Skills and Tools:
