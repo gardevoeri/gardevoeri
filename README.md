@@ -1,20 +1,12 @@
-<div align="center"> 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gardevoeri&theme=default" height="195px">
-</div>
-<br>
-
 <div align="center">  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gardevoeri&theme=default"> 
 </div>
 <br>
-<div align="center">  
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gardevoeri&theme=default" height="195px">
-</div>
 
 
 <br>
 <div align="center"> 
-Skills and Tools:
+My Interests!
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)&nbsp;
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
