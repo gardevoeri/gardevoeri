@@ -1,10 +1,3 @@
-<div align="center">  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gardevoeri&theme=default"> 
-</div>
-<br>
-
-
-<br>
 <div align="center"> 
 My Interests!
 
